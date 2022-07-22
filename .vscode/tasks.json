@@ -14,7 +14,7 @@
                 "-Wall",
                 "-static-libgcc",
             //    "-fexec-charset=GBK",
-                "-std=c++11",
+                "-std=c++14",
             ],
             "group": {
                 "kind": "build",
